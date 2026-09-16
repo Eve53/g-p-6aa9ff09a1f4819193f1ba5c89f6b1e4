@@ -1,0 +1,15 @@
+[
+  {
+    "image": "/Users/xiaoe/.codex/.chatgpt-projects/g-p-6aa9ff09a1f4819193f1ba5c89f6b1e4/ux-audit-2026-09-16-live-recheck/assets/current.png",
+    "out": "/Users/xiaoe/.codex/.chatgpt-projects/g-p-6aa9ff09a1f4819193f1ba5c89f6b1e4/ux-audit-2026-09-16-live-recheck/assets/current-annotated.png",
+    "marks": [
+      {"id":"F-01","sev":3,"x":0.02,"y":0.13,"w":0.47,"h":0.045},
+      {"id":"F-02","sev":3,"x":0.71,"y":0.2,"w":0.25,"h":0.045},
+      {"id":"F-03","sev":3,"x":0.18,"y":0.63,"w":0.53,"h":0.066},
+      {"id":"F-04","sev":2,"x":0.71,"y":0.646,"w":0.25,"h":0.04},
+      {"id":"F-05","sev":2,"x":0.045,"y":0.262,"w":0.91,"h":0.05},
+      {"id":"F-06","sev":2,"x":0.1,"y":0.34,"w":0.28,"h":0.035},
+      {"id":"F-07","sev":2,"x":0.19,"y":0.672,"w":0.52,"h":0.021}
+    ]
+  }
+]

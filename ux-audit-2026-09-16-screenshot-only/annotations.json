@@ -1,0 +1,12 @@
+[
+  {
+    "image": "ux-audit-2026-09-16-screenshot-only/assets/current.png",
+    "out": "ux-audit-2026-09-16-screenshot-only/assets/current-annotated.png",
+    "marks": [
+      {"id": "F-03", "sev": 3, "x": 0.188, "y": 0.635, "w": 0.516, "h": 0.032},
+      {"id": "F-06", "sev": 2, "x": 0.103, "y": 0.340, "w": 0.265, "h": 0.033},
+      {"id": "F-07", "sev": 2, "x": 0.188, "y": 0.670, "w": 0.516, "h": 0.025},
+      {"id": "F-08", "sev": 2, "x": 0.185, "y": 0.448, "w": 0.478, "h": 0.026}
+    ]
+  }
+]
