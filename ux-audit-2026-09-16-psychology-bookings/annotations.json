@@ -1,0 +1,17 @@
+[
+  {
+    "image": "/Users/xiaoe/.codex/.chatgpt-projects/g-p-6aa9ff09a1f4819193f1ba5c89f6b1e4/ux-audit-2026-09-16-psychology-bookings/assets/预约列表-全部.png",
+    "out": "/Users/xiaoe/.codex/.chatgpt-projects/g-p-6aa9ff09a1f4819193f1ba5c89f6b1e4/ux-audit-2026-09-16-psychology-bookings/assets/预约列表-全部-annotated.png",
+    "marks": [
+      {"id": "F-01", "sev": 3, "x": 0.02, "y": 0.115, "w": 0.55, "h": 0.045},
+      {"id": "F-02", "sev": 3, "x": 0.18, "y": 0.175, "w": 0.77, "h": 0.075},
+      {"id": "F-03", "sev": 3, "x": 0.18, "y": 0.625, "w": 0.77, "h": 0.075},
+      {"id": "F-04", "sev": 2, "x": 0.05, "y": 0.27, "w": 0.89, "h": 0.105},
+      {"id": "F-05", "sev": 2, "x": 0.05, "y": 0.425, "w": 0.89, "h": 0.17},
+      {"id": "F-06", "sev": 2, "x": 0.17, "y": 0.925, "w": 0.65, "h": 0.035},
+      {"id": "F-07", "sev": 2, "x": 0.18, "y": 0.195, "w": 0.48, "h": 0.065},
+      {"id": "F-08", "sev": 2, "x": 0.18, "y": 0.445, "w": 0.49, "h": 0.03},
+      {"id": "F-09", "sev": 1, "x": 0.82, "y": 0.81, "w": 0.13, "h": 0.07}
+    ]
+  }
+]
